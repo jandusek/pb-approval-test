@@ -1,0 +1,6 @@
+&lt;?xml version="1.0" encoding="UTF-8"?>
+&lt;Response>
+   &lt;Say>Leave a message&lt;/Say>
+   &lt;Record action="/handler" finishOnKey="#" />
+   &lt;Say>The end&lt;/Say>
+&lt;/Response>
