@@ -4,4 +4,4 @@ Programmable Messaging course
 
 adding some details here
 
-adding even more details...
+adding even more details... in greater detail
